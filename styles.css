@@ -1,0 +1,47 @@
+body {
+  background: #f7f1df;
+  color: #292720;
+}
+
+.navbar {
+  background: #f7f1df !important;
+  border-bottom: 1px solid #ded6c3;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+.page-columns {
+  max-width: 900px;
+}
+
+.profile {
+  margin: 0 0 1.8rem 0;
+}
+
+.profile-image {
+  width: 145px;
+  height: 145px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+h2 {
+  margin-top: 2.6rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+h3 {
+  margin-top: 1.6rem;
+  font-weight: 500;
+}
+
+a {
+  color: #65552c;
+}
+
+a:hover {
+  color: #332b17;
+}

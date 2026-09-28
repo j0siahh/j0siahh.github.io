@@ -1,0 +1,24 @@
+---
+title: "Josiah Calvert"
+---
+
+<div class="profile">
+<img src="IMG_2105%20copy.jpg" class="profile-image" alt="Josiah Calvert">
+</div>
+
+**MSci Physics with Theoretical Physics, First Class**  
+University of Nottingham
+
+Theoretical physicist interested in quantum gravity, holography,
+quantum field theory, geometry, and mathematical physics.
+
+## Interests
+
+Quantum gravity · Holography and AdS/CFT · Quantum field theory ·
+Operator algebras and AQFT · Gauge theory · Differential geometry
+and topology · Emergent geometry
+
+## Links
+
+[GitHub](https://github.com/j0siahh) ·
+[LinkedIn](https://www.linkedin.com/in/josiah-calvert/)
