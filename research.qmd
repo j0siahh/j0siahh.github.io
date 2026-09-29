@@ -36,6 +36,23 @@ The project is motivated by the role of time and polarization in gravitational p
 
 [Project PDF →](york_time%20%281%29.pdf)
 
+
+## Iterated Conformal Infinity Is Not Iterated Holography
+
+**Independent Research Project**
+
+*Depth-Two Conformal Infinity, Cornered Geometry, and the Limits of Recursive Holography*
+
+**Overview**
+
+A geometric study of “depth-two” conformal infinity, where a conformal boundary itself carries asymptotically hyperbolic structure. The project shows how this naturally leads to cornered geometry, while distinguishing nested conformal structure from a genuinely recursive holographic duality.
+
+**Motivation**
+
+The project is motivated by the question of whether holography can be iterated, with a boundary itself becoming a new bulk. The analysis identifies a representative-selection obstruction: conformal infinity determines a conformal class rather than a distinguished asymptotically hyperbolic representative. This separates nested geometry from genuine iterated holography and points toward relative or defect sectors.
+
+[Project PDF →](nested_holography%20%281%29.pdf)
+
 ## Hodge-Relative Completions of Characteristic Brane Couplings
 
 **Independent Research Project**

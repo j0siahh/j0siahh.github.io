@@ -22,3 +22,15 @@ and topology · Emergent geometry
 
 [GitHub](https://github.com/j0siahh) ·
 [LinkedIn](https://www.linkedin.com/in/josiah-calvert/)
+
+
+## Substack
+
+I also write essays and articles at the intersection of physics, philosophy,
+and science communication. These pieces are deliberately less rigorous than
+my academic research: they explore ideas, interpretations, and the broader
+questions that sit around physics, from the meaning of mathematical
+descriptions to the limits of how we observe the universe.
+
+[Read my essays on The Local Frame →](https://substack.com/@thelocalframe)
+
