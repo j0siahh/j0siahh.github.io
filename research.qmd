@@ -25,9 +25,11 @@ A spectral framework connecting weighted graphs, operator algebras, modular stru
 
 **Independent research · single author**
 
-**Motivation**
+**Overview**
 
-General covariance turns the Hamiltonian into a constraint, so physical time has to be built from a choice of clock, and different clocks need not agree. This is the problem of time, usually debated in settings too intricate to compute in. AdS$_3$ gravity is the exception, because its classical solution space is completely known, so the effect of a clock choice can be calculated. The paper is explicit about its own limits. The bulk statements are separated from the holographic interpretation, the scaling law is described as exact but shallow, and the boundary dictionary is flagged as the weak point. It also relates the proposal to recent work on volume time and $T\bar{T}$.
+Three-dimensional gravity with negative cosmological constant has a completely known classical solution space on a closed surface of genus $g\geq2$, together with a canonical constant-mean-curvature (CMC) foliation whose Hamiltonian is the area of the slice. Each clock reading $\tau$ therefore defines a Hamiltonian $H_\tau$ on the same reduced phase space $T^*\mathcal{T}_g$. The paper shows that these Hamiltonians are not independent: an exact, non-perturbative scaling identity collapses the entire family onto a single universal profile, sampled at a momentum scale determined by the clock.
+
+The universal profile is analysed in two regimes. At small momentum, its expansion is governed by the Weil–Petersson metric and curvature; at large momentum, it is identified with Hubbard–Masur extremal length. Interpreting the conjugate momentum through the standard holographic dictionary as the classical boundary stress tensor then gives a semiclassical stress-tensor dilation law and a definite prediction for the sextic term of the boundary effective action. The paper explicitly separates the bulk results from the holographic interpretation and identifies which steps are proved and which remain interpretive.
 
 **Prior work: topics studied in depth**
 
