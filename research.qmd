@@ -36,7 +36,7 @@ The project asks whether geometric and gravitational structure can be reconstruc
 
 </details>
 
-[Project PDF →](spectral_holography.pdf)
+[Project PDF →](Spectral_Holography%20copy.pdf)
 
 ## Clock Geometry in AdS3 Gravity
 
