@@ -17,6 +17,19 @@ My research explores connections between quantum gravity, holography, geometry, 
 
 A spectral framework connecting weighted graphs, operator algebras, modular structure, gauge holonomies, and emergent geometry. The project develops explicit mathematical constructions linking spectral data to geometric and gauge-theoretic structures, while separating proved results from conjectural physical interpretations.
 
+**Motivation**
+
+The project asks whether geometric and gravitational structure can be reconstructed from algebraic and spectral data rather than assumed from the outset. It combines operator algebras, modular flow, graph spectra, gauge holonomies, and geometric invariants into a single finite-dimensional framework, with particular attention to which parts can be established mathematically and which remain conjectural.
+
+**Topics studied**
+
+- Von Neumann algebras, crossed products, modular theory, and modular flow
+- Spectral graph theory, weighted Laplacians, and spectral embeddings
+- Gauge theory, Lie algebras, holonomies, and twisted Laplacians
+- Differential geometry, curvature, and emergent metric structure
+- Holography, entanglement, and quantum gravitational interpretations
+- Topological sectors, representation theory, and collective modes
+
 [Project PDF →](spectral_holography.pdf)
 
 ## Clock Geometry in AdS3 Gravity
@@ -29,17 +42,21 @@ A spectral framework connecting weighted graphs, operator algebras, modular stru
 
 Three-dimensional gravity with negative cosmological constant has a completely known classical solution space on a closed surface of genus $g\geq2$, together with a canonical constant-mean-curvature (CMC) foliation whose Hamiltonian is the area of the slice. Each clock reading $\tau$ therefore defines a Hamiltonian $H_\tau$ on the same reduced phase space $T^*\mathcal{T}_g$. The paper shows that these Hamiltonians are not independent: an exact, non-perturbative scaling identity collapses the entire family onto a single universal profile, sampled at a momentum scale determined by the clock.
 
-The universal profile is analysed in two regimes. At small momentum, its expansion is governed by the Weil–Petersson metric and curvature; at large momentum, it is identified with Hubbard–Masur extremal length. Interpreting the conjugate momentum through the standard holographic dictionary as the classical boundary stress tensor then gives a semiclassical stress-tensor dilation law and a definite prediction for the sextic term of the boundary effective action. The paper explicitly separates the bulk results from the holographic interpretation and identifies which steps are proved and which remain interpretive.
+The universal profile is analysed at both small and large momentum. Its small-momentum expansion is governed by the Weil–Petersson metric and curvature, while its large-momentum limit is identified with Hubbard–Masur extremal length. Reading the conjugate momentum as the classical boundary stress tensor then gives a semiclassical stress-tensor dilation law and a definite prediction for the sextic term of the boundary effective action.
 
-**Prior work: topics studied in depth**
+**Motivation**
 
-- Teichmüller theory and Weil–Petersson geometry, including its curvature (Ahlfors, Wolpert, Tromba)
-- AdS$_3$ geometry and the Mess parametrisation of the phase space, and constant-mean-curvature foliations (Barbot–Béguin–Zeghib)
-- Hamiltonian reduction of 2+1 gravity over Teichmüller space (Moncrief, Hosoya–Nakao) and York's CMC slicing
-- Elliptic PDE and the calculus of variations: sub- and super-solution methods (Kazdan–Warner), the maximum principle, analytic implicit function arguments
-- Symplectic geometry, clocks as choices of polarisation, and the problem of time (Kuchař, Isham)
-- Quadratic differentials, measured foliations, and extremal length (Hubbard–Masur)
-- Holographic renormalisation and the Brown–York stress tensor; coadjoint orbits of the Virasoro group
+The problem of time asks how physical evolution can be defined when the Hamiltonian of a generally covariant theory is itself a constraint. This project studies the question in AdS$_3$, where the classical solution space is sufficiently rigid for different choices of clock to be computed explicitly. York time provides a geometrically distinguished CMC clock, allowing the resulting family of Hamiltonians to be studied exactly rather than only perturbatively.
+
+**Topics studied**
+
+- Teichmüller theory and Weil–Petersson geometry, including its curvature
+- AdS$_3$ geometry, the Mess parametrisation, and CMC foliations
+- Hamiltonian reduction of 2+1 gravity and York's CMC slicing
+- Elliptic PDE, maximum principles, and variational methods
+- Symplectic geometry, polarisation, clocks, and the problem of time
+- Quadratic differentials, measured foliations, and extremal length
+- Holographic renormalisation, Brown–York stress tensors, and Virasoro geometry
 - Virasoro TQFT and $T\bar{T}$ deformations
 
 [Project PDF →](york_time%20%281%29.pdf)
@@ -50,20 +67,20 @@ The universal profile is analysed in two regimes. At small momentum, its expansi
 
 **Overview**
 
-Chern–Simons theory is often described loosely as Yang–Mills with the metric removed. This project runs that step in reverse. Given a closed, gauge-invariant characteristic form on a D-brane worldvolume, does restoring the metric by forming its Hodge square ever give a genuinely new local coupling beyond the Dirac–Born–Infeld and Wess–Zumino sectors? The paper proves a necessary and sufficient criterion: to first order in a change of representative, the obstruction is exactly the codifferential, and representative-independence holds precisely on the co-closed locus. Applied to the D4-brane at leading order, this gives a no-go theorem: every Hodge-completed coupling already belongs to a known sector. The paper closes by locating where brane extrinsic geometry could first produce a genuinely mixed class and poses this as a precise open problem.
+This project asks whether restoring the metric to characteristic gauge-theoretic couplings through the Hodge star can produce genuinely new local D-brane interactions. The paper proves a necessary and sufficient criterion: to first order in a change of representative, the obstruction is exactly the codifferential, with representative-independence precisely on the co-closed locus. Applied to the D4-brane at leading order, this gives a no-go theorem: every Hodge-completed coupling already belongs to a known sector.
 
 **Motivation**
 
-A fixed cohomology class remembers only global, bundle-level information, while its Hodge square depends on the chosen representative. That gap is where new local physics could live, so the question can be posed sharply. The paper is deliberately modest. It claims none of its algebraic ingredients as new, states that the result is a calibration of the search space rather than a discovery of a new coupling, and separates the proved criterion from the open problem.
+A cohomology class captures global information, while a Hodge square depends on the particular differential-form representative. This difference provides a natural place to search for local couplings not visible in purely topological data. The project tests that possibility directly and, rather than forcing a new interaction, identifies a precise obstruction and the point at which extrinsic brane geometry could first change the conclusion.
 
-**Prior work: topics studied in depth**
+**Topics studied**
 
-- The variational bicomplex and local BRST cohomology, which govern local Lagrangians modulo total derivatives and gauge redundancy
-- Hodge theory on manifolds: the Hodge star, the codifferential, and harmonic representatives
-- Differential cohomology and gerbes, which give the correct setting for the ambiguity of a representative
-- Characteristic classes, transgression, and Chern–Simons and Wess–Zumino descent
-- D-brane effective actions: DBI and Wess–Zumino couplings, dielectric branes, and $\kappa$-symmetry
-- T-duality constraints on higher-derivative brane couplings, and anomaly inflow
+- Hodge theory, differential forms, codifferentials, and harmonic representatives
+- Variational bicomplexes and local BRST cohomology
+- Differential cohomology and gerbes
+- Characteristic classes, transgression, and Chern–Simons/Wess–Zumino descent
+- D-brane effective actions, DBI, Wess–Zumino couplings, and $\kappa$-symmetry
+- T-duality constraints and anomaly inflow
 
 [Project PDF →](Hodge_relative_completions_of_characteristic_brane_couplings%20%283%29.pdf)
 
@@ -73,12 +90,6 @@ A fixed cohomology class remembers only global, bundle-level information, while 
 
 *Depth-Two Conformal Infinity, Cornered Geometry, and the Limits of Recursive Holography*
 
-**Overview**
+A short research note rather than a full project, motivated by a simple question: **can holography be iterated, with a boundary becoming a new bulk?** It studies a depth-two conformal-infinity construction and shows that the first conformal boundary determines only a conformal class, so a second asymptotic geometry requires additional structure to select a representative. The note uses the $\mathrm{AdS}_d\subset\mathrm{AdS}_{d+1}$ example to suggest a relative or defect interpretation, but does not attempt an existence, classification, or complete holographic dictionary.
 
-A short note on "depth-two" conformal infinity: a conformally compact Einstein manifold whose conformal boundary itself admits a complete asymptotically hyperbolic representative with its own conformal infinity. Such structures lead naturally to cornered asymptotically hyperbolic geometry. The note proves a representative-selection obstruction. Conformal infinity determines only a conformal class, so the second asymptotic geometry needs a distinguished representative that the first does not supply. In the maximally symmetric model, $\mathrm{AdS}_d \subset \mathrm{AdS}_{d+1}$ carries its own conformal infinity as a codimension-one locus of the parent boundary, which points toward a relative or defect sector rather than an autonomous second duality.
-
-**Motivation**
-
-Can holography be iterated, with a boundary becoming a new bulk? The note answers narrowly. It shows non-invariance under Weyl rescaling, not non-existence or non-uniqueness of a second Einstein representative, and it proves no existence or classification result. Its aim is to show that the appealing recursive picture cannot be had for free, and to state which extra structure a genuine iterated dictionary would need.
-
-[Project PDF →](nested_holography%20%281%29.pdf)
+[Research note PDF →](nested_holography%20%281%29.pdf)
