@@ -15,17 +15,9 @@ I am currently seeking funded PhD opportunities for 2027/28 in mathematical phys
 
 ## Research
 
-My research focuses on how time, geometry, and observables are encoded in gravitational theories, working in settings rigid enough that questions can be settled by calculation rather than argument: three-dimensional AdS gravity, conformal infinity, and operator-algebraic models of emergent geometry.
-
-Three questions organise my work. **What is a clock?** In AdS$_3$ gravity on a closed surface, every constant-mean-curvature time defines its own Hamiltonian on the same phase space. I show these are a single function read at different momentum scales, and ask what this implies for the boundary stress tensor. **How far can holography be iterated?** Conformal infinity fixes only a conformal class, which blocks a naive recursive dictionary and points toward relative or defect sectors. **Can geometry be reconstructed from algebraic data?** My MSci project builds geometry, gauge structure, and gravity from von Neumann algebras and modular flow on weighted graphs.
+My research explores connections between quantum gravity, quantum field theory, geometry, gauge theory, holography, and mathematical physics, with a particular interest in how fundamental physical structures such as spacetime, time, geometry, and observables emerge and are encoded in mathematical theories.
 
 [Research](research.html) · [CV](cv.html) · [Contact](contact.html) · Referees available on request.
-
-## Research statement
-
-I study how time, geometry, and observables are encoded in gravitational theories, working in settings rigid enough that questions can be settled by calculation rather than argument: three-dimensional AdS gravity, conformal infinity, and operator-algebraic models of emergent geometry.
-
-Three questions organise my work. **What is a clock?** In AdS$_3$ gravity on a closed surface, every constant-mean-curvature time defines its own Hamiltonian on the same phase space. I show these are a single function read at different momentum scales, and ask what this implies for the boundary stress tensor. **How far can holography be iterated?** Conformal infinity fixes only a conformal class, which blocks a naive recursive dictionary and points toward relative or defect sectors. **Can geometry be reconstructed from algebraic data?** My MSci project builds geometry, gauge structure, and gravity from von Neumann algebras and modular flow on weighted graphs.
 
 ## Interests
 
