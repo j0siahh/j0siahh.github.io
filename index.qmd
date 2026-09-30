@@ -11,6 +11,22 @@ University of Nottingham
 
 Theoretical physicist interested in quantum gravity, holography, quantum field theory, geometry, and mathematical physics.
 
+I am currently seeking funded PhD opportunities for 2027/28 in mathematical physics, quantum gravity, holography, and related areas.
+
+## Research
+
+My research focuses on how time, geometry, and observables are encoded in gravitational theories, working in settings rigid enough that questions can be settled by calculation rather than argument: three-dimensional AdS gravity, conformal infinity, and operator-algebraic models of emergent geometry.
+
+Three questions organise my work. **What is a clock?** In AdS$_3$ gravity on a closed surface, every constant-mean-curvature time defines its own Hamiltonian on the same phase space. I show these are a single function read at different momentum scales, and ask what this implies for the boundary stress tensor. **How far can holography be iterated?** Conformal infinity fixes only a conformal class, which blocks a naive recursive dictionary and points toward relative or defect sectors. **Can geometry be reconstructed from algebraic data?** My MSci project builds geometry, gauge structure, and gravity from von Neumann algebras and modular flow on weighted graphs.
+
+[Research](research.html) · [CV](cv.html) · [Contact](contact.html) · Referees available on request.
+
+## Research statement
+
+I study how time, geometry, and observables are encoded in gravitational theories, working in settings rigid enough that questions can be settled by calculation rather than argument: three-dimensional AdS gravity, conformal infinity, and operator-algebraic models of emergent geometry.
+
+Three questions organise my work. **What is a clock?** In AdS$_3$ gravity on a closed surface, every constant-mean-curvature time defines its own Hamiltonian on the same phase space. I show these are a single function read at different momentum scales, and ask what this implies for the boundary stress tensor. **How far can holography be iterated?** Conformal infinity fixes only a conformal class, which blocks a naive recursive dictionary and points toward relative or defect sectors. **Can geometry be reconstructed from algebraic data?** My MSci project builds geometry, gauge structure, and gravity from von Neumann algebras and modular flow on weighted graphs.
+
 ## Interests
 
 Quantum gravity · Holography and AdS/CFT · Quantum field theory · Operator algebras and AQFT · Gauge theory · Differential geometry and topology · Emergent geometry
@@ -19,8 +35,6 @@ Quantum gravity · Holography and AdS/CFT · Quantum field theory · Operator al
 
 [GitHub](https://github.com/j0siahh) · [LinkedIn](https://www.linkedin.com/in/josiah-calvert/)
 
-## Substack
+### Writing
 
-I also write essays and articles at the intersection of physics, philosophy, and science communication. These pieces are deliberately less rigorous than my academic research: they explore ideas, interpretations, and the broader questions that sit around physics, from the meaning of mathematical descriptions to the limits of how we observe the universe.
-
-[Read my essays on The Local Frame →](https://substack.com/@thelocalframe)
+I also write non-technical essays on physics and philosophy: [The Local Frame →](https://substack.com/@thelocalframe)

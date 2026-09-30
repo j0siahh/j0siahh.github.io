@@ -10,6 +10,9 @@ My research explores connections between quantum gravity, holography, geometry, 
 
 *Emergent Geometry, Gauge Theory, and Gravity from Modular Graph Entanglement*
 
+**Supervisor:** Prof. Anastasios Avgoustidis  
+**Coauthor:** Rhys Hender
+
 **Overview**
 
 A spectral framework connecting weighted graphs, operator algebras, modular structure, gauge holonomies, and emergent geometry. The project develops explicit mathematical constructions linking spectral data to geometric and gauge-theoretic structures, while separating proved results from conjectural physical interpretations.
