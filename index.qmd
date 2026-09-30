@@ -9,28 +9,18 @@ title: "Josiah Calvert"
 **MSci Physics with Theoretical Physics, First Class**  
 University of Nottingham
 
-Theoretical physicist interested in quantum gravity, holography,
-quantum field theory, geometry, and mathematical physics.
+Theoretical physicist interested in quantum gravity, holography, quantum field theory, geometry, and mathematical physics.
 
 ## Interests
 
-Quantum gravity · Holography and AdS/CFT · Quantum field theory ·
-Operator algebras and AQFT · Gauge theory · Differential geometry
-and topology · Emergent geometry
+Quantum gravity · Holography and AdS/CFT · Quantum field theory · Operator algebras and AQFT · Gauge theory · Differential geometry and topology · Emergent geometry
 
 ## Links
 
-[GitHub](https://github.com/j0siahh) ·
-[LinkedIn](https://www.linkedin.com/in/josiah-calvert/)
-
+[GitHub](https://github.com/j0siahh) · [LinkedIn](https://www.linkedin.com/in/josiah-calvert/)
 
 ## Substack
 
-I also write essays and articles at the intersection of physics, philosophy,
-and science communication. These pieces are deliberately less rigorous than
-my academic research: they explore ideas, interpretations, and the broader
-questions that sit around physics, from the meaning of mathematical
-descriptions to the limits of how we observe the universe.
+I also write essays and articles at the intersection of physics, philosophy, and science communication. These pieces are deliberately less rigorous than my academic research: they explore ideas, interpretations, and the broader questions that sit around physics, from the meaning of mathematical descriptions to the limits of how we observe the universe.
 
 [Read my essays on The Local Frame →](https://substack.com/@thelocalframe)
-

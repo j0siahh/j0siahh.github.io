@@ -12,73 +12,68 @@ My research explores connections between quantum gravity, holography, geometry, 
 
 **Overview**
 
-A spectral framework connecting weighted graphs, operator algebras, modular structure, gauge holonomies, and emergent geometry. The project investigates how geometric and gravitational structures can arise from underlying spectral and entanglement data.
+A spectral framework connecting weighted graphs, operator algebras, modular structure, gauge holonomies, and emergent geometry. The project develops explicit mathematical constructions linking spectral data to geometric and gauge-theoretic structures, while separating proved results from conjectural physical interpretations.
+
+[Project PDF →](spectral_holography.pdf)
+
+## Clock Geometry in AdS3 Gravity
+
+*The York Hamiltonian as a Curvature-Generating Function*
+
+**Independent research · single author**
 
 **Motivation**
 
-The project is motivated by the possibility that spacetime geometry is emergent rather than fundamental. It asks whether geometric information can be reconstructed from more primitive algebraic, spectral, and quantum data.
+General covariance turns the Hamiltonian into a constraint, so physical time has to be built from a choice of clock, and different clocks need not agree. This is the problem of time, usually debated in settings too intricate to compute in. AdS$_3$ gravity is the exception, because its classical solution space is completely known, so the effect of a clock choice can be calculated. The paper is explicit about its own limits. The bulk statements are separated from the holographic interpretation, the scaling law is described as exact but shallow, and the boundary dictionary is flagged as the weak point. It also relates the proposal to recent work on volume time and $T\bar{T}$.
 
-[Project PDF →](Spectral_Holography%20copy.pdf)
+**Prior work: topics studied in depth**
 
-## The Universal York Hamiltonian
-
-**Independent Research Project**
-
-*An Exact Scaling Law for Constant-Mean-Curvature Time in AdS3 Gravity, and a Stress-Tensor Dilation Law on its Boundary*
-
-**Overview**
-
-A study of York time and Hamiltonian evolution in three-dimensional AdS gravity. The project develops an exact scaling law for the York Hamiltonian in constant-mean-curvature time and investigates the corresponding dilation law for the boundary stress tensor.
-
-**Motivation**
-
-The project is motivated by the role of time and polarization in gravitational phase space. York time provides a geometric choice of clock through constant-mean-curvature foliations, giving a setting in which bulk Hamiltonian evolution can be related to boundary conformal data.
+- Teichmüller theory and Weil–Petersson geometry, including its curvature (Ahlfors, Wolpert, Tromba)
+- AdS$_3$ geometry and the Mess parametrisation of the phase space, and constant-mean-curvature foliations (Barbot–Béguin–Zeghib)
+- Hamiltonian reduction of 2+1 gravity over Teichmüller space (Moncrief, Hosoya–Nakao) and York's CMC slicing
+- Elliptic PDE and the calculus of variations: sub- and super-solution methods (Kazdan–Warner), the maximum principle, analytic implicit function arguments
+- Symplectic geometry, clocks as choices of polarisation, and the problem of time (Kuchař, Isham)
+- Quadratic differentials, measured foliations, and extremal length (Hubbard–Masur)
+- Holographic renormalisation and the Brown–York stress tensor; coadjoint orbits of the Virasoro group
+- Virasoro TQFT and $T\bar{T}$ deformations
 
 [Project PDF →](york_time%20%281%29.pdf)
 
+## Hodge-Relative Completions of Characteristic Brane Couplings
 
-## Iterated Conformal Infinity Is Not Iterated Holography
+**Independent research · single author**
 
-**Independent Research Project**
+**Overview**
+
+Chern–Simons theory is often described loosely as Yang–Mills with the metric removed. This project runs that step in reverse. Given a closed, gauge-invariant characteristic form on a D-brane worldvolume, does restoring the metric by forming its Hodge square ever give a genuinely new local coupling beyond the Dirac–Born–Infeld and Wess–Zumino sectors? The paper proves a necessary and sufficient criterion: to first order in a change of representative, the obstruction is exactly the codifferential, and representative-independence holds precisely on the co-closed locus. Applied to the D4-brane at leading order, this gives a no-go theorem: every Hodge-completed coupling already belongs to a known sector. The paper closes by locating where brane extrinsic geometry could first produce a genuinely mixed class and poses this as a precise open problem.
+
+**Motivation**
+
+A fixed cohomology class remembers only global, bundle-level information, while its Hodge square depends on the chosen representative. That gap is where new local physics could live, so the question can be posed sharply. The paper is deliberately modest. It claims none of its algebraic ingredients as new, states that the result is a calibration of the search space rather than a discovery of a new coupling, and separates the proved criterion from the open problem.
+
+**Prior work: topics studied in depth**
+
+- The variational bicomplex and local BRST cohomology, which govern local Lagrangians modulo total derivatives and gauge redundancy
+- Hodge theory on manifolds: the Hodge star, the codifferential, and harmonic representatives
+- Differential cohomology and gerbes, which give the correct setting for the ambiguity of a representative
+- Characteristic classes, transgression, and Chern–Simons and Wess–Zumino descent
+- D-brane effective actions: DBI and Wess–Zumino couplings, dielectric branes, and $\kappa$-symmetry
+- T-duality constraints on higher-derivative brane couplings, and anomaly inflow
+
+[Project PDF →](Hodge_relative_completions_of_characteristic_brane_couplings%20%283%29.pdf)
+
+## Research Notes
+
+### Iterated Conformal Infinity Is Not Iterated Holography
 
 *Depth-Two Conformal Infinity, Cornered Geometry, and the Limits of Recursive Holography*
 
 **Overview**
 
-A geometric study of “depth-two” conformal infinity, where a conformal boundary itself carries asymptotically hyperbolic structure. The project shows how this naturally leads to cornered geometry, while distinguishing nested conformal structure from a genuinely recursive holographic duality.
+A short note on "depth-two" conformal infinity: a conformally compact Einstein manifold whose conformal boundary itself admits a complete asymptotically hyperbolic representative with its own conformal infinity. Such structures lead naturally to cornered asymptotically hyperbolic geometry. The note proves a representative-selection obstruction. Conformal infinity determines only a conformal class, so the second asymptotic geometry needs a distinguished representative that the first does not supply. In the maximally symmetric model, $\mathrm{AdS}_d \subset \mathrm{AdS}_{d+1}$ carries its own conformal infinity as a codimension-one locus of the parent boundary, which points toward a relative or defect sector rather than an autonomous second duality.
 
 **Motivation**
 
-The project is motivated by the question of whether holography can be iterated, with a boundary itself becoming a new bulk. The analysis identifies a representative-selection obstruction: conformal infinity determines a conformal class rather than a distinguished asymptotically hyperbolic representative. This separates nested geometry from genuine iterated holography and points toward relative or defect sectors.
+Can holography be iterated, with a boundary becoming a new bulk? The note answers narrowly. It shows non-invariance under Weyl rescaling, not non-existence or non-uniqueness of a second Einstein representative, and it proves no existence or classification result. Its aim is to show that the appealing recursive picture cannot be had for free, and to state which extra structure a genuine iterated dictionary would need.
 
 [Project PDF →](nested_holography%20%281%29.pdf)
-
-## Hodge-Relative Completions of Characteristic Brane Couplings
-
-**Independent Research Project**
-
-**Overview**
-
-This project studies metric-dependent completions of characteristic brane couplings using differential forms, characteristic classes, and the Hodge operator. It explores how characteristic and topological data can be extended into structures carrying local field-theoretic information.
-
-**Motivation**
-
-The starting point is a contrast with Chern–Simons theory. Chern–Simons constructions naturally encode global and topological information from local gauge fields. Here the question is reversed: can global characteristic data be completed using the Hodge operator so that local physical structure becomes visible?
-
-[Project PDF →](Hodge_relative_completions_of_characteristic_brane_couplings%20%283%29.pdf)
-
-## Strain as Curvature
-
-**Independent Research Project**
-
-**Overview**
-
-This project identifies a distinguished geometric sector of the three-dimensional incompressible Navier–Stokes equations through the $SO(3)$ decomposition of the velocity gradient. The transverse-traceless strain sector corresponds to helicity $\pm 2$ and admits a curvature interpretation for the effective metric $g=\delta+2S$.
-
-The project also connects material deformation to $SL(3,\mathbb{R})/SO(3)$ and studies the global topology of this geometric sector.
-
-**Motivation**
-
-The aim is to place fluid strain, curvature, representation theory, and topology within a common geometric framework. Existing Navier–Stokes regularity criteria are reinterpreted in this setting, without claiming a new regularity theorem.
-
-[Project PDF →](Strain_as_Curvature%20%281%29.pdf)
