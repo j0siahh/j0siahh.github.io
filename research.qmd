@@ -15,13 +15,17 @@ My research explores connections between quantum gravity, holography, geometry, 
 
 **Overview**
 
-A spectral framework connecting weighted graphs, operator algebras, modular structure, gauge holonomies, and emergent geometry. The project develops explicit mathematical constructions linking spectral data to geometric and gauge-theoretic structures, while separating proved results from conjectural physical interpretations.
+A spectral framework connecting weighted graphs, operator algebras, modular structure, gauge holonomies, and emergent geometry. The project develops explicit constructions linking spectral data to geometric and gauge-theoretic structures, while separating proved results from conjectural physical interpretations.
 
-**Motivation**
+<details>
+<summary><strong>Motivation</strong></summary>
 
-The project asks whether geometric and gravitational structure can be reconstructed from algebraic and spectral data rather than assumed from the outset. It combines operator algebras, modular flow, graph spectra, gauge holonomies, and geometric invariants into a single finite-dimensional framework, with particular attention to which parts can be established mathematically and which remain conjectural.
+The project asks whether geometric and gravitational structure can be reconstructed from algebraic and spectral data rather than assumed from the outset. It combines operator algebras, modular flow, graph spectra, gauge holonomies, and geometric invariants into a single framework, with careful separation between mathematical results and conjectural physics.
 
-**Topics studied**
+</details>
+
+<details>
+<summary><strong>Topics studied</strong></summary>
 
 - Von Neumann algebras, crossed products, modular theory, and modular flow
 - Spectral graph theory, weighted Laplacians, and spectral embeddings
@@ -29,6 +33,8 @@ The project asks whether geometric and gravitational structure can be reconstruc
 - Differential geometry, curvature, and emergent metric structure
 - Holography, entanglement, and quantum gravitational interpretations
 - Topological sectors, representation theory, and collective modes
+
+</details>
 
 [Project PDF →](spectral_holography.pdf)
 
@@ -40,24 +46,30 @@ The project asks whether geometric and gravitational structure can be reconstruc
 
 **Overview**
 
-Three-dimensional gravity with negative cosmological constant has a completely known classical solution space on a closed surface of genus $g\geq2$, together with a canonical constant-mean-curvature (CMC) foliation whose Hamiltonian is the area of the slice. Each clock reading $\tau$ therefore defines a Hamiltonian $H_\tau$ on the same reduced phase space $T^*\mathcal{T}_g$. The paper shows that these Hamiltonians are not independent: an exact, non-perturbative scaling identity collapses the entire family onto a single universal profile, sampled at a momentum scale determined by the clock.
+Three-dimensional AdS gravity has a completely known classical solution space on a closed surface of genus $g\geq2$, together with a canonical constant-mean-curvature foliation. The paper shows that the resulting family of York-time Hamiltonians is not independent: an exact scaling identity collapses it onto a single universal profile.
 
-The universal profile is analysed at both small and large momentum. Its small-momentum expansion is governed by the Weil–Petersson metric and curvature, while its large-momentum limit is identified with Hubbard–Masur extremal length. Reading the conjugate momentum as the classical boundary stress tensor then gives a semiclassical stress-tensor dilation law and a definite prediction for the sextic term of the boundary effective action.
+The profile connects the Weil–Petersson geometry of the small-momentum regime to Hubbard–Masur extremal length at large momentum, while the holographic interpretation gives a semiclassical stress-tensor dilation law and a prediction for the sextic boundary effective-action term.
 
-**Motivation**
+<details>
+<summary><strong>Motivation</strong></summary>
 
-The problem of time asks how physical evolution can be defined when the Hamiltonian of a generally covariant theory is itself a constraint. This project studies the question in AdS$_3$, where the classical solution space is sufficiently rigid for different choices of clock to be computed explicitly. York time provides a geometrically distinguished CMC clock, allowing the resulting family of Hamiltonians to be studied exactly rather than only perturbatively.
+The problem of time asks how physical evolution can be defined when the Hamiltonian of a generally covariant theory is itself a constraint. AdS$_3$ provides an unusually rigid setting in which different clock choices can be studied explicitly. York time supplies a geometrically distinguished CMC clock, allowing the resulting Hamiltonians to be compared exactly rather than only perturbatively.
 
-**Topics studied**
+</details>
 
-- Teichmüller theory and Weil–Petersson geometry, including its curvature
+<details>
+<summary><strong>Topics studied</strong></summary>
+
+- Teichmüller theory and Weil–Petersson geometry
 - AdS$_3$ geometry, the Mess parametrisation, and CMC foliations
-- Hamiltonian reduction of 2+1 gravity and York's CMC slicing
+- Hamiltonian reduction of 2+1 gravity and York slicing
 - Elliptic PDE, maximum principles, and variational methods
 - Symplectic geometry, polarisation, clocks, and the problem of time
 - Quadratic differentials, measured foliations, and extremal length
 - Holographic renormalisation, Brown–York stress tensors, and Virasoro geometry
 - Virasoro TQFT and $T\bar{T}$ deformations
+
+</details>
 
 [Project PDF →](york_time%20%281%29.pdf)
 
@@ -67,13 +79,17 @@ The problem of time asks how physical evolution can be defined when the Hamilton
 
 **Overview**
 
-This project asks whether restoring the metric to characteristic gauge-theoretic couplings through the Hodge star can produce genuinely new local D-brane interactions. The paper proves a necessary and sufficient criterion: to first order in a change of representative, the obstruction is exactly the codifferential, with representative-independence precisely on the co-closed locus. Applied to the D4-brane at leading order, this gives a no-go theorem: every Hodge-completed coupling already belongs to a known sector.
+This project asks whether restoring the metric to characteristic gauge-theoretic couplings through the Hodge star can produce genuinely new local D-brane interactions. The paper derives a precise representative-dependence criterion and, at leading order for the D4-brane, proves a no-go result: every Hodge-completed coupling lies within a known sector.
 
-**Motivation**
+<details>
+<summary><strong>Motivation</strong></summary>
 
-A cohomology class captures global information, while a Hodge square depends on the particular differential-form representative. This difference provides a natural place to search for local couplings not visible in purely topological data. The project tests that possibility directly and, rather than forcing a new interaction, identifies a precise obstruction and the point at which extrinsic brane geometry could first change the conclusion.
+A cohomology class captures global information, while a Hodge square depends on the particular differential-form representative. This difference provides a natural place to search for local couplings beyond topological data. The project tests that possibility directly and identifies the obstruction, together with where extrinsic brane geometry could first change the conclusion.
 
-**Topics studied**
+</details>
+
+<details>
+<summary><strong>Topics studied</strong></summary>
 
 - Hodge theory, differential forms, codifferentials, and harmonic representatives
 - Variational bicomplexes and local BRST cohomology
@@ -81,6 +97,8 @@ A cohomology class captures global information, while a Hodge square depends on 
 - Characteristic classes, transgression, and Chern–Simons/Wess–Zumino descent
 - D-brane effective actions, DBI, Wess–Zumino couplings, and $\kappa$-symmetry
 - T-duality constraints and anomaly inflow
+
+</details>
 
 [Project PDF →](Hodge_relative_completions_of_characteristic_brane_couplings%20%283%29.pdf)
 
@@ -90,6 +108,7 @@ A cohomology class captures global information, while a Hodge square depends on 
 
 *Depth-Two Conformal Infinity, Cornered Geometry, and the Limits of Recursive Holography*
 
-A short research note rather than a full project, motivated by a simple question: **can holography be iterated, with a boundary becoming a new bulk?** It studies a depth-two conformal-infinity construction and shows that the first conformal boundary determines only a conformal class, so a second asymptotic geometry requires additional structure to select a representative. The note uses the $\mathrm{AdS}_d\subset\mathrm{AdS}_{d+1}$ example to suggest a relative or defect interpretation, but does not attempt an existence, classification, or complete holographic dictionary.
+A short research note rather than a full project, asking whether holography can be iterated by allowing a boundary to become a new bulk. It shows that conformal infinity determines only a conformal class, so a second asymptotic geometry requires additional structure. The $\mathrm{AdS}_d\subset\mathrm{AdS}_{d+1}$ example suggests a relative or defect interpretation, without claiming a complete second holographic dictionary.
 
 [Research note PDF →](nested_holography%20%281%29.pdf)
+
